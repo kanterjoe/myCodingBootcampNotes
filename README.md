@@ -47,6 +47,27 @@ removes or deletes a file. Totally. Be careful.
 
 removes or deletes a directory
 
+### cp <targetfile> <destination file>
+
+Copies a file from target to destination
+
+### mv <targetfile> <destination file>
+
+Moves a file from target to destination
+
+
+## Cool Terminal Shortcuts:
+
+Up key: goes to the previous command
+Tab key (While typing a file/folder name): Fills out the filename if it's there and unique
+
+### Special directorys:
+
+~/ - User directory (/Users/josephkanter)
+../ - One directory up (parent directory)
+./ - current directory 
+/ - root directory
+
 
 # Git Commands
 
@@ -62,4 +83,8 @@ git pull – downloads freshest version of repo.
 
 
 git status - Tells you what state Git is in
+
+_If windows and you see this:_
+
+*Warning: CRLF will beconverted to LF*
 
