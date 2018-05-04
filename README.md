@@ -48,3 +48,18 @@ removes or deletes a file. Totally. Be careful.
 removes or deletes a directory
 
 
+# Git Commands
+
+git clone – copies an entire repo (to begin).
+
+git add – adds a file for inclusion in Git.
+
+git commit – notes a change to the local repo.
+
+git push – sends changes to hosting service.
+
+git pull – downloads freshest version of repo.
+
+
+git status - Tells you what state Git is in
+
